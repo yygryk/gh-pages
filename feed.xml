@@ -3,34 +3,10 @@
     <title>ygryk.ru</title>
     <link href="https://yygryk.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://yygryk.github.io/gh-pages" />
-    <updated>2025-01-16T00:49:59+05:00</updated>
+    <updated>1970-01-01T05:00:00+05:00</updated>
     <author>
         <name>ygryk</name>
     </author>
     <id>https://yygryk.github.io/gh-pages</id>
 
-    <entry>
-        <title>гнек</title>
-        <author>
-            <name>ygryk</name>
-        </author>
-        <link href="https://yygryk.github.io/gh-pages/gnek.html"/>
-        <id>https://yygryk.github.io/gh-pages/gnek.html</id>
-        <media:content url="https://yygryk.github.io/gh-pages/media/posts/1/bc3f7c324cd910c8994ff7ddbde22adb-xl.jpg" medium="image" />
-
-        <updated>2025-01-16T00:48:17+05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://yygryk.github.io/gh-pages/media/posts/1/bc3f7c324cd910c8994ff7ddbde22adb-xl.jpg" alt="" />
-                    👀
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://yygryk.github.io/gh-pages/media/posts/1/bc3f7c324cd910c8994ff7ddbde22adb-xl.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://yygryk.github.io/gh-pages/media/posts/1/bc3f7c324cd910c8994ff7ddbde22adb-xl-2.jpg" alt="" width="1000" height="696" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://yygryk.github.io/gh-pages/media/posts/1/responsive/bc3f7c324cd910c8994ff7ddbde22adb-xl-2-xs.jpg 320w ,https://yygryk.github.io/gh-pages/media/posts/1/responsive/bc3f7c324cd910c8994ff7ddbde22adb-xl-2-sm.jpg 480w ,https://yygryk.github.io/gh-pages/media/posts/1/responsive/bc3f7c324cd910c8994ff7ddbde22adb-xl-2-md.jpg 768w ,https://yygryk.github.io/gh-pages/media/posts/1/responsive/bc3f7c324cd910c8994ff7ddbde22adb-xl-2-xl.jpg 1024w"></figure>
-<p>👀</p>
-            ]]>
-        </content>
-    </entry>
 </feed>

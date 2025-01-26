@@ -9,20 +9,5 @@
         "name": "ygryk"
     },
     "items": [
-        {
-            "id": "https://yygryk.github.io/gh-pages/gnek.html",
-            "url": "https://yygryk.github.io/gh-pages/gnek.html",
-            "title": "гнек",
-            "summary": "👀",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://yygryk.github.io/gh-pages/media/posts/1/bc3f7c324cd910c8994ff7ddbde22adb-xl-2.jpg\" alt=\"\" width=\"1000\" height=\"696\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://yygryk.github.io/gh-pages/media/posts/1/responsive/bc3f7c324cd910c8994ff7ddbde22adb-xl-2-xs.jpg 320w ,https://yygryk.github.io/gh-pages/media/posts/1/responsive/bc3f7c324cd910c8994ff7ddbde22adb-xl-2-sm.jpg 480w ,https://yygryk.github.io/gh-pages/media/posts/1/responsive/bc3f7c324cd910c8994ff7ddbde22adb-xl-2-md.jpg 768w ,https://yygryk.github.io/gh-pages/media/posts/1/responsive/bc3f7c324cd910c8994ff7ddbde22adb-xl-2-xl.jpg 1024w\"></figure>\n<p>👀</p>",
-            "image": "https://yygryk.github.io/gh-pages/media/posts/1/bc3f7c324cd910c8994ff7ddbde22adb-xl.jpg",
-            "author": {
-                "name": "ygryk"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-01-16T00:48:17+05:00",
-            "date_modified": "2025-01-16T00:49:59+05:00"
-        }
     ]
 }
