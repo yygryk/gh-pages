@@ -3,10 +3,36 @@
     <title>ygryk.ru</title>
     <link href="https://yygryk.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://yygryk.github.io/gh-pages" />
-    <updated>1970-01-01T05:00:00+05:00</updated>
+    <updated>2025-01-26T16:30:31+05:00</updated>
     <author>
         <name>ygryk</name>
     </author>
     <id>https://yygryk.github.io/gh-pages</id>
 
+    <entry>
+        <title>Технические мероприятия</title>
+        <author>
+            <name>ygryk</name>
+        </author>
+        <link href="https://yygryk.github.io/gh-pages/tehnicheskie-meropriyatiya.html"/>
+        <id>https://yygryk.github.io/gh-pages/tehnicheskie-meropriyatiya.html</id>
+
+        <updated>2025-01-26T16:06:23+05:00</updated>
+            <summary>
+                <![CDATA[
+                    Для подготовки рабочего места при работах со снятием напряжения должны быть выполнены в указанном порядке следующие&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Для подготовки рабочего места при работах со снятием напряжения должны быть выполнены в указанном порядке следующие технические мероприятия:</h2>
+<p>а) произведены необходимые отключения и приняты меры препятствующие передаче напряжения на место работы вследствие ошибочного или самостоятельного включения коммутационной аппаратуры;</p>
+<p>б) на приводах ручного и на ключах дистанционного управления коммутационной аппаратурой вывешены запрещающие плакаты;</p>
+<p>в) проверено отсутствие напряжения на токоведущих частях, которые должны быть заземлены для защиты людей от поражения электрическим током;</p>
+<p>г) наложено заземление (включены заземляющие ножи, а там, где они отсутствуют, установлены переносные заземления);</p>
+<p>д) вывешены предупреждающие и предписывающие плакаты, ограждены при необходимости рабочие места и оставшиеся под напряжением токоведущие части. В зависимости от местных условий токоведущие части ограждаются до или после наложения заземления</p>
+<div class="post__iframe"><iframe loading="lazy" width="614" height="345" src="https://www.youtube.com/embed/Uw1W3Od0Bws" title="Технические мероприятия при производстве работ в электроустановках" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
 </feed>
