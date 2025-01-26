@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://yygryk.github.io/gh-pages/organizacionnye-meropriyatiya.html",
+            "url": "https://yygryk.github.io/gh-pages/organizacionnye-meropriyatiya.html",
+            "title": "Организационные мероприятия",
+            "content_html": "<figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://yygryk.github.io/gh-pages/media/posts/3/3d98d44829b3d657327cbefd794ce373.jpg\" alt=\"\" width=\"1024\" height=\"767\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://yygryk.github.io/gh-pages/media/posts/3/responsive/3d98d44829b3d657327cbefd794ce373-xs.jpg 320w ,https://yygryk.github.io/gh-pages/media/posts/3/responsive/3d98d44829b3d657327cbefd794ce373-sm.jpg 480w ,https://yygryk.github.io/gh-pages/media/posts/3/responsive/3d98d44829b3d657327cbefd794ce373-md.jpg 768w ,https://yygryk.github.io/gh-pages/media/posts/3/responsive/3d98d44829b3d657327cbefd794ce373-xl.jpg 1024w\"></figure>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"973\" height=\"547\" src=\"https://www.youtube.com/embed/oqKYgxaKv68\" title=\"ОРГАНИЗАЦИОННЫЕ МЕРОПРИЯТИЯ ПО ОБЕСПЕЧЕНИЮ БЕЗОПАСНОГО ПРОВЕДЕНИЯ РАБОТ В ЭЛЕКТРОУСТАНОВКАХ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "author": {
+                "name": "ygryk"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-26T16:37:10+05:00",
+            "date_modified": "2025-01-26T16:38:27+05:00"
+        },
+        {
             "id": "https://yygryk.github.io/gh-pages/tehnicheskie-meropriyatiya.html",
             "url": "https://yygryk.github.io/gh-pages/tehnicheskie-meropriyatiya.html",
             "title": "Технические мероприятия",
@@ -21,7 +34,7 @@
             "tags": [
             ],
             "date_published": "2025-01-26T16:06:23+05:00",
-            "date_modified": "2025-01-26T16:30:31+05:00"
+            "date_modified": "2025-01-26T16:38:08+05:00"
         }
     ]
 }

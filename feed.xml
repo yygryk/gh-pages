@@ -3,12 +3,29 @@
     <title>ygryk.ru</title>
     <link href="https://yygryk.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://yygryk.github.io/gh-pages" />
-    <updated>2025-01-26T16:30:31+05:00</updated>
+    <updated>2025-01-26T16:38:27+05:00</updated>
     <author>
         <name>ygryk</name>
     </author>
     <id>https://yygryk.github.io/gh-pages</id>
 
+    <entry>
+        <title>Организационные мероприятия</title>
+        <author>
+            <name>ygryk</name>
+        </author>
+        <link href="https://yygryk.github.io/gh-pages/organizacionnye-meropriyatiya.html"/>
+        <id>https://yygryk.github.io/gh-pages/organizacionnye-meropriyatiya.html</id>
+
+        <updated>2025-01-26T16:37:10+05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--full"><img loading="lazy"  src="https://yygryk.github.io/gh-pages/media/posts/3/3d98d44829b3d657327cbefd794ce373.jpg" alt="" width="1024" height="767" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://yygryk.github.io/gh-pages/media/posts/3/responsive/3d98d44829b3d657327cbefd794ce373-xs.jpg 320w ,https://yygryk.github.io/gh-pages/media/posts/3/responsive/3d98d44829b3d657327cbefd794ce373-sm.jpg 480w ,https://yygryk.github.io/gh-pages/media/posts/3/responsive/3d98d44829b3d657327cbefd794ce373-md.jpg 768w ,https://yygryk.github.io/gh-pages/media/posts/3/responsive/3d98d44829b3d657327cbefd794ce373-xl.jpg 1024w"></figure>
+<div class="post__iframe"><iframe loading="lazy" width="973" height="547" src="https://www.youtube.com/embed/oqKYgxaKv68" title="ОРГАНИЗАЦИОННЫЕ МЕРОПРИЯТИЯ ПО ОБЕСПЕЧЕНИЮ БЕЗОПАСНОГО ПРОВЕДЕНИЯ РАБОТ В ЭЛЕКТРОУСТАНОВКАХ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Технические мероприятия</title>
         <author>
